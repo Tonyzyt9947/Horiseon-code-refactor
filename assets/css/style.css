@@ -54,8 +54,8 @@
     }
 
 
-/* Main marketing meeting image settings */
-    .main-meeting-image {
+/* Hero image settings */
+    .hero {
         max-height: 100%;
         max-width: 100%;
         margin-bottom: 25px;
@@ -151,7 +151,7 @@
     background-color: #2589bd;
     }
 
-    /* Lead generation section settings and styling */
+    /* Lead generation section text and image settings and styling */
 
         .benefit-lead {
             margin-bottom: 32px;
@@ -169,7 +169,7 @@
             max-width: 150px;
         }
 
-    /* Brand awareness section settings and styling */
+    /* Brand awareness section text and image settings and styling */
 
         .benefit-brand {
             margin-bottom: 32px;
@@ -187,7 +187,7 @@
             max-width: 150px;
         }
 
-    /* Cost management section settings and styling */
+    /* Cost management section text and image settings and styling */
 
         .benefit-cost {
             margin-bottom: 32px;
