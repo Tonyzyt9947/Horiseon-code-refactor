@@ -36,13 +36,13 @@ Click [here](https://www.google.com/chrome/) to install google chrome to open th
 
 
 1. Added meta-description (line 8) and title (line 9)
-![head section of html code, featuring meta description and title](assets\images\readme_screenshots\meta-description-title.png)
+![head section of html code, featuring meta description and title](assets/images/readme_screenshots/meta-description-title.png)
 
 2. Added semantic elements (header:line 14, 31; figure:line 33,39; article:line 41) and alt texts for images (line 37).
-![body section of html code, with semantic elements and alt text for images](assets\images\readme_screenshots\header-alttexts.png)
+![body section of html code, with semantic elements and alt text for images](assets/images/readme_screenshots/header-alttexts.png)
 
 3. Increased font size (line 9), labeled functions of css code (line 1, 12) and organized css functions into related sections (line 17).
-![css code increased font size and organized into related sections titled by comments](assets\images\readme_screenshots\fontsize-reorg.png)
+![css code increased font size and organized into related sections titled by comments](assets/images/readme_screenshots/fontsize-reorg.png)
 
 
 ## Authors
